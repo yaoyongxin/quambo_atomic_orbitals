@@ -1,0 +1,9 @@
+Name convention
+
+QOCAR_6s5d6p.1.a: 
+QOCAR_ValenceShells_ChargedState[0,1,2,...]_Unit[a: Angstrom, b: Bohr]
+
+or 
+QOCAR.ca.La.spd.0.a
+
+QOCAR.[ca: LDA, pw: GGA].Element.ValenceShell.ChargedState.Unit
